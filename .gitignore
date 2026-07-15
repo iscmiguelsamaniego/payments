@@ -1,0 +1,32 @@
+# --- Build & Compiled Files ---
+build/
+.gradle/
+out/
+target/
+bin/
+
+# --- IDE Files ---
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+
+# --- OS & System Files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+hs_err_pid*
+
+# --- Local Configuration ---
+local.properties
+.env
+
